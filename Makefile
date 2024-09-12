@@ -1,4 +1,4 @@
-Hello, World!
+    Hello, World!
 
-    make say-hello
+make say-hello
 Hello, World!
